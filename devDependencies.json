@@ -1,0 +1,23 @@
+[
+    "babel-cli",
+    "babel-loader",
+    "babel-plugin-syntax-jsx",
+    "babel-plugin-transform-class-properties",
+    "babel-plugin-transform-decorators-legacy",
+    "babel-plugin-transform-jsx",
+    "babel-preset-env",
+    "clean-webpack-plugin",
+    "copy-webpack-plugin",
+    "css-loader",
+    "file-loader",
+    "html-loader",
+    "html-webpack-plugin",
+    "image-webpack-loader",
+    "node-sass",
+    "sass-loader",
+    "style-loader",
+    "ts-loader",
+    "typescript",
+    "webpack",
+    "webpack-dev-server"
+]
